@@ -5,7 +5,7 @@
     "database": "books_development",
     "host": "127.0.0.1",
     "dialect": "postgres",
-    "operationAliases": false
+    "operationalAliases": false
   },
   "test": {
     "username": "api_user",
@@ -13,6 +13,6 @@
     "database": "books_test",
     "host": "127.0.0.1",
     "dialect": "postgres",
-    "operationAliases": false
+    "operationalAliases": false
   }
 }
