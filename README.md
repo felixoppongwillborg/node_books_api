@@ -1,6 +1,8 @@
 ## node_books_api code along.
-This was a code along challenge that spanned over seven sessions. 
+
 This was my first introduction to NodeJS
+This was a code along challenge that spanned over seven sessions. 
+
 
 ## packages used:
 Mocha, Chai, Supertest.
